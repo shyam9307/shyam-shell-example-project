@@ -1,1 +1,8 @@
-a+b
+#This is addition Method:
+
+x=a+b
+
+
+#This is Subtraction Method:
+
+x=a-b
